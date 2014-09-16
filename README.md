@@ -20,7 +20,8 @@ the specified rules. You can easily change the last
 line to do this process for n*n square.
 
 
-v1.0 Updates
+v1.0 Updates:
+
     - Class Structure
     - Saving the report a .txt file
     - Script tries until the square is full
