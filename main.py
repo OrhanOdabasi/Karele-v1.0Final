@@ -36,7 +36,7 @@ while loop == True:
 		loop = False
 		report = obj.report()
 		print(report)
-		process_time = format(time.clock(), ".2f")
+		process_time = format(time.process_time(), ".2f")
 		message = "Process was completed after "+ str(count) + " tries in " + process_time + " seconds!\n"
 		message1 = "_" * 70 + "\n"
 		print(message + message1)
