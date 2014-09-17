@@ -25,3 +25,4 @@ v1.0 Updates:
     - Class Structure
     - Saving the report a .txt file
     - Script tries until the square is full
+    - Displaying number of tries and script time
