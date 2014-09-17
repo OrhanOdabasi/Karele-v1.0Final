@@ -15,9 +15,9 @@ it only fills them within orders randomly.
 For More Info: http://0rhodabasi.blogspot.com.tr/ (Turkish)
 
 
-By default, it creates a 6*6 square and fills it with
-the specified rules. You can easily change the last
-line to do this process for n*n square.
+By default, it creates a 5*5 square and fills it with
+the specified rules. You can easily change the  'square_number'
+variable to edit the size of the square in 'main.py'
 
 
 v1.0 Updates:
